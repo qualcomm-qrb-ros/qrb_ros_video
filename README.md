@@ -10,6 +10,9 @@
   
 </div>
 
+> [!NOTE]
+> This repository is currently migrating to ROS 2 Lyrical. Documentation may still reference Jazzy, and some features may not be fully supported yet.
+
 ---
 
 ## 👋 Overview
@@ -214,4 +217,3 @@ Feel free to create an issue for bug reports, feature requests, or any discussio
 ## 📜 License
 
 Project is licensed under the [BSD-3-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE](./LICENSE) for the full license text.
-
